@@ -1,0 +1,2 @@
+hi this is sample file 
+for practsing git hub with git bash
